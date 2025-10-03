@@ -144,7 +144,7 @@ _Please fill in this section with any important notes about your implementation,
 
 - I first read the README.md to gain a better understanding of how the assessment works.
 - I checked the documentation of Google AI Studio to learn how to implement it.
-- I used ChatGPT AI to improve development productivity.
+- I used ChatGPT AI and Claude AI to improve development productivity.
 
 ## Additional Features (Optional)
 
